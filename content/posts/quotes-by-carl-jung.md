@@ -24,3 +24,5 @@ title = 'Quotes by Carl Jung'
 > In all chaos there is a cosmos, in all disorder a secret order.
 
 > Show me a sane man and I will cure him for you.
+
+> I am not what happened to me, I am what I choose to become.
