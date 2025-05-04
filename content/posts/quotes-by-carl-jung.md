@@ -1,7 +1,16 @@
-+++
-date = '2025-05-04T12:30:51+08:00'
-title = 'Quotes by Carl Jung'
-+++
+---
+date: "2025-03-10"
+title: "Quotes by Carl Jung"
+summary: "Insparing quotes by Carl Jung."
+description: "Insparing quotes by Carl Jung."
+toc: false
+readTime: true
+autonumber: true
+math: true
+tags: ["quotes"]
+showTags: false
+hideBackToTop: false
+---
 
 > Even a happy life cannot be without a measure of darkness, and the word happy would lose its meaning if it were not balanced by sadness. It is far better to take things as they come along with patience and equanimity.
 

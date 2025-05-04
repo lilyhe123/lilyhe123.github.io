@@ -1,7 +1,16 @@
-+++
-date = '2025-05-04T14:49:50+08:00'
-title = 'Create a New Theme'
-+++
+---
+date: "2025-03-15"
+title: "Create a New Theme"
+summary: "Introduction about creating a new theme in Hugo."
+description: "Introduction about creating a new theme in Hugo."
+toc: false
+readTime: true
+autonumber: true
+math: true
+tags: ["tech", "web"]
+showTags: false
+hideBackToTop: false
+---
 
 ## Introduction
 
