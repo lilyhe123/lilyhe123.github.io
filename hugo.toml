@@ -8,7 +8,7 @@ theme = 'typo'
     dir = ':cacheDir/images'
 
 # Google analytics code
-googleAnalytics = "G-xxxxxxxxx"
+googleAnalytics = "G-FBG61KD8Q3"
 
 [taxonomies]
 tag = 'tags'
@@ -16,8 +16,8 @@ tag = 'tags'
 [params]
 # Meta description
 description = "A Tech Blog"
-showFooter = false
-footerContent = "Learn. Do. Teach."
+showFooter = true
+footerContent = "Learn. Do. Share."
 
 # Appearance settings
 theme = 'auto'
@@ -25,11 +25,8 @@ colorPalette = 'default'
 hideHeader = false
 
 # Intro on main page, content is markdown
-homeIntroTitle = 'Hi, There!'
+homeIntroTitle = ''
 homeIntroContent = """
-I am a Software Engineer. I enjoy learning new things and solving problems with my skills and knowledge.
-I'm intrested in various topics, distributed system, database, micrsoservice, AI etc.
-I created this website to share my thoughts and ideas along the journey.
 """
 
 # Collection to display on home
@@ -37,34 +34,17 @@ homeCollectionTitle = 'Posts'
 homeCollection = 'posts'
 
 # Lists parameters
-paginationSize = 100
+paginationSize = 20
 listSummaries = true
 listDateFormat = '2 Jan 2006'
 
 # Breadcrumbs
 [params.breadcrumbs]
-enabled = true
+enabled = false
 showCurrentPage = true
 home = "Home"
 
-# Social icons
-[[params.social]]
-name = "linkedin"
-url = "#"
-
-[[params.social]]
-name = "medium"
-url = "#"
-
-[[params.social]]
-name = "github"
-url = "https://github.com/lilyhe123"
-
 # Main menu pages
-[[params.menu]]
-name = "home"
-url = "/"
-
 [[params.menu]]
 name = "posts"
 url = "/posts"
@@ -72,6 +52,10 @@ url = "/posts"
 [[params.menu]]
 name = "tags"
 url = "/tags"
+
+[[params.menu]]
+name = "about"
+url = "/about"
 
 # Syntax highlight on code blocks
 [markup]
