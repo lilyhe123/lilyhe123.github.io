@@ -8,6 +8,7 @@ readTime: true
 autonumber: true
 math: true
 tags: ["tech", "web"]
+categories:
 showTags: false
 hideBackToTop: false
 ---

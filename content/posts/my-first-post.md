@@ -5,7 +5,7 @@ summary: "Hugo introduction."
 description: "Hugo introduction."
 toc: false
 readTime: true
-autonumber: true
+autonumber: false
 math: true
 tags: ["quote", "life"]
 showTags: false

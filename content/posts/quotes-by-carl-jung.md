@@ -8,6 +8,7 @@ readTime: true
 autonumber: true
 math: true
 tags: ["quotes"]
+categories: quotes
 showTags: false
 hideBackToTop: false
 ---
