@@ -1,6 +1,6 @@
 baseURL: "https://lilyhe123.github.io"
 languageCode: en-us
-title: Lily's Blog
+title: "Lily He"
 theme: PaperMod
 
 pagination:
@@ -19,16 +19,13 @@ minify:
 
 params:
   env: production
-  title: Lily He
-  description: "Lily He"
+  title: Lily
+  description: "Lily"
   keywords: [Blog, Portfolio, PaperMod]
   images: ["#"]
   #DateFormat: "Jan 2, 2025"
   defaultTheme: auto
   disableThemeToggle: false
-
-  TocOpen: true
-
   ShowReadingTime: true
   ShowShareButtons: true
   ShowPostNavLinks: true
@@ -55,7 +52,7 @@ params:
   homeInfoParams:
     Title: "Code, Coffee, and Curiosity"
     Content: |
-      Share what I'm learning, building, and occasionally stumbling through. 
+      Share what I'm reading, thinking, learning, building, and occasionally stumbling through. 
       Sometimes it’s polished tutorials, sometimes it's just brain-dump.
 
   socialIcons:

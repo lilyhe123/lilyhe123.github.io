@@ -23,10 +23,6 @@ hideBackToTop: false
 
 > Knowing your own darkness is the best method for dealing with the darknesses of other people.
 
-> The meeting of two personalities is like the contact of two chemical substances: if there is any reaction, both are transformed.
-
-> There is no coming to consciousness without pain.
-
 > As far as we can discern, the sole purpose of human existence is to kindle a light of meaning in the darkness of mere being.
 
 > We cannot change anything until we accept it. Condemnation does not liberate, it oppresses.
@@ -34,5 +30,3 @@ hideBackToTop: false
 > In all chaos there is a cosmos, in all disorder a secret order.
 
 > Show me a sane man and I will cure him for you.
-
-> I am not what happened to me, I am what I choose to become.

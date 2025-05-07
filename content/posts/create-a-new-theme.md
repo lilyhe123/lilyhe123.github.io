@@ -3,15 +3,17 @@ date: "2025-03-15"
 title: "Create a New Theme"
 summary: "Introduction about creating a new theme in Hugo."
 description: "Introduction about creating a new theme in Hugo."
-toc: false
+tags: ["tech", "web"]
+categories:
+showtoc: true
 readTime: true
 autonumber: true
 math: true
-tags: ["tech", "web"]
-categories:
 showTags: false
 hideBackToTop: false
 ---
+
+> This article was originally written by someone else on [Hugo](https://gohugo.io/). I'm resharing it here because I found it was incredibly useful and wanted to keep a reference.
 
 ## Introduction
 
