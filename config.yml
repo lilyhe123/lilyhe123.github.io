@@ -27,9 +27,9 @@ params:
   defaultTheme: auto
   disableThemeToggle: false
   ShowReadingTime: true
-  ShowShareButtons: true
+  ShowShareButtons: false
   ShowPostNavLinks: true
-  ShowBreadCrumbs: true
+  ShowBreadCrumbs: false
   ShowCodeCopyButtons: false
   ShowWordCount: false
   ShowRssButtonInSectionTermList: false
@@ -52,15 +52,17 @@ params:
   homeInfoParams:
     Title: "Tech, Tinker, Think"
     Content: |
-      I want this blog to be part playground, part lab notebook, and part thought journal.
+      Hope this blog to be part playground, part lab notebook, and part thought journal.
       I'll cover hands-on tinkering with tools and frameworks, deep dives into algorithms and architecture, and reflections on the evolving craft of engineering. 
   socialIcons:
     - name: github
       url: "https://github.com/lilyhe123"
     - name: linkedin
-    - name: x
-    - name: dev
+      url: "#"
+    - name: email
+      url: "#"
     - name: rss
+      url: "#"
 
   cover:
     hidden: true # hide everywhere but not in structured data
@@ -94,10 +96,10 @@ menu:
       name: Search
       url: /search/
       weight: 99
-    - identifier: archives
-      name: Archive
-      url: /archives/
-      weight: 2
+  #  - identifier: archives
+  #   name: Archive
+  #    url: /archives/
+  #   weight: 2
     - identifier: categories
       name: Categories
       url: /categories/
