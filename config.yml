@@ -50,11 +50,10 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Code, Coffee, and Curiosity"
+    Title: "Tech, Tinker, Think"
     Content: |
-      Share what I'm reading, thinking, learning, building, and occasionally stumbling through. 
-      Sometimes it’s polished tutorials, sometimes it's just brain-dump.
-
+      I waht this blog to be part playground, part lab notebook, and part thought journal.
+      I'll cover hands-on tinkering with tools and frameworks, deep dives into algorithms and architecture, and reflections on the evolving craft of engineering. 
   socialIcons:
     - name: github
       url: "https://github.com/lilyhe123"

@@ -1,9 +1,9 @@
 ---
-date: "2025-03-15"
+date: "2025-04-25"
 title: "Create a New Theme"
-summary: "Introduction about creating a new theme in Hugo."
+summary: "Repost: Introduction about creating a new theme in Hugo."
 description: "Introduction about creating a new theme in Hugo."
-tags: ["tech", "web"]
+tags: ["web"]
 categories:
 showtoc: true
 readTime: true
@@ -13,7 +13,7 @@ showTags: false
 hideBackToTop: false
 ---
 
-> This article was originally written by someone else on [Hugo](https://gohugo.io/). I'm resharing it here because I found it was incredibly useful and wanted to keep a reference.
+> This article was originally published on [Hugo](https://gohugo.io/). I'm resharing it here for future reference, in case I want to create my own Huge theme.
 
 ## Introduction
 

@@ -1,9 +1,8 @@
 ---
-date: "2025-03-10"
+date: "2025-04-25"
 title: "Quotes by Carl Jung"
-summary: "Insparing quotes by Carl Jung."
-description: "Insparing quotes by Carl Jung."
-toc: false
+summary: "Carl Jung’s quotes keep me sane."
+showtoc: false
 readTime: true
 autonumber: true
 math: true
@@ -13,11 +12,11 @@ showTags: false
 hideBackToTop: false
 ---
 
+> Who looks outside, dreams; who looks inside, awakes.
+
 > Even a happy life cannot be without a measure of darkness, and the word happy would lose its meaning if it were not balanced by sadness. It is far better to take things as they come along with patience and equanimity.
 
 > The least of things with a meaning is worth more in life than the greatest of things without it.
-
-> Who looks outside, dreams; who looks inside, awakes.
 
 > Everything that irritates us about others can lead us to an understanding of ourselves.
 
