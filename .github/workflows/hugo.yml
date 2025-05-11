@@ -9,7 +9,7 @@ permissions:
   pages: write
   id-token: write
 env:
-  HUGO_VERSION: 0.136.5
+  HUGO_VERSION: 0.147.0
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
