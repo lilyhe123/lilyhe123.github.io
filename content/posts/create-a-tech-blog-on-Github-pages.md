@@ -120,9 +120,7 @@ There are tons of SSGs out there, even just for personal blogs. Here are some po
 - Pelican – Python-based
 - Next.js / Gatsby / Astro – More advanced, React/Vue-based
 
-I went with Hugo for its blazing speed and beautiful theme options. Plus, it gave me a good excuse to explore Go. Following [Hugo's quick start](https://gohugo.io/getting-started/quick-start/), I set up my site efficiently, then focused on customizing a theme to match my preferred style. The process was largely smooth, though experimenting with different themes did lead to one deployment failure. This occured because a particular theme required a more recent version of Hugo. If Actions failed, go the Actions tab to checkt the detail logs and mostly it might give you some clue.
-
-One takeaway is having a solid grasp of the fundamentals and what's happening "under the hood" equips you with the confidence and understanding necessary to tackle and fix issues when they occur. This still resonates in AI age. With AI-powered tools and automation, it’s tempting to rely entirely on abstractions — letting the tool do the thinking while you follow along. But when something breaks or behaves unpredictably (and it will), you’re left in the dark unless you actually understand the system beneath the surface.
+I went with Hugo for its blazing speed and beautiful theme options. Plus, it gave me a good excuse to explore Go. Following [Hugo's quick start](https://gohugo.io/getting-started/quick-start/), I set up my site efficiently, then focused on customizing a theme to match my preferred style. The process was largely smooth, though experimenting with different themes did lead to one deployment failure. This occured because a particular theme required a more recent version of Hugo. If Actions failed, go to the Actions tab to check outputs and mostly it will give you some clue.
 
 ## Are Static Sites Still Relevant?
 
@@ -131,3 +129,6 @@ Absolutely. For blogs, portfolios, and documentation sites, static sites are a g
 And they’re not as limited as they once were. Thanks to JAMstack (JavaScript, APIs, Markup) architecture, you can still build rich, dynamic experiences by adding interactivity via client-side JavaScript and third-party APIs. For example, to add search function, pre-generate a search index and use client-side JS to filter it. To add comment section, use services like Disqus or Hyvor Talk. Many SSG themes come with built-in support for these features, saving you time and effort.
 
 I’ll probably cover JAMstack more in a future post—it’s a powerful model for modern web development.
+
+## Takeaway
+Having a solid grasp of the fundamentals and what's happening "under the hood" equips you with the confidence and understanding necessary to tackle and fix issues when they occur. This still resonates in AI age. With AI-powered tools and automation, it’s tempting to rely entirely on abstractions — letting the tool do the thinking while you follow along. But when something breaks or behaves unpredictably (and it will), you’re left in the dark unless you actually understand the system beneath the surface.
