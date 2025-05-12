@@ -14,7 +14,7 @@ hideBackToTop: false
 ---
 ## Why I’m Writing This
 
-I wanted to set up a tech blog hosted on GitHub Pages. After a quick search, it seemed like the process would be straightforward — something I could get done in minutes. I found some tutorials, like [this one](https://chirpy.cotes.page/posts/getting-started/) for the Chirpy theme. I followed the steps closely… but I just couldn’t get it to work. That led to a few days of digging, debugging, learning, and experimenting. Eventually, I got the blog up and running on GitHub Pages. Now I want to put together some takeaways.
+I wanted to set up a tech blog hosted on GitHub Pages. After a quick search, it seemed like the process would be straightforward — something I could get done in minutes. I found some tutorials, like [this one](https://chirpy.cotes.page/posts/getting-started/) for the Chirpy theme. I followed the steps closely… but I just couldn’t get it to work. And the real issue is I have no idea how to fix it. That led to a few days of digging, debugging, learning, and experimenting. Eventually, I got the blog up and running on GitHub Pages. Now I want to put together some takeaways.
 
 > When a tutorial breaks, understanding begins.
 
@@ -120,9 +120,9 @@ There are tons of SSGs out there, even just for personal blogs. Here are some po
 - Pelican – Python-based
 - Next.js / Gatsby / Astro – More advanced, React/Vue-based
 
-I went with Hugo for its blazing speed and beautiful theme options. Plus, it gave me a good excuse to explore Go. Following [Hugo's quick start](https://gohugo.io/getting-started/quick-start/), I set up my site efficiently, then focused on customizing a theme to match my preferred style. The process was largely smooth, though experimenting with different themes did lead to one deployment failure. This occured because a particular theme required a more recent version of Hugo. 
+I went with Hugo for its blazing speed and beautiful theme options. Plus, it gave me a good excuse to explore Go. Following [Hugo's quick start](https://gohugo.io/getting-started/quick-start/), I set up my site efficiently, then focused on customizing a theme to match my preferred style. The process was largely smooth, though experimenting with different themes did lead to one deployment failure. This occured because a particular theme required a more recent version of Hugo. If Actions failed, go the Actions tab to checkt the detail logs and mostly it might give you some clue.
 
-This hands-on troubleshooting reinforced a key lesson: having a solid grasp of the fundamentals and what's happening "under the hood" equips you with the confidence and understanding necessary to tackle and fix issues when they occur.
+One takeaway is having a solid grasp of the fundamentals and what's happening "under the hood" equips you with the confidence and understanding necessary to tackle and fix issues when they occur. This still resonates in AI age. With AI-powered tools and automation, it’s tempting to rely entirely on abstractions — letting the tool do the thinking while you follow along. But when something breaks or behaves unpredictably (and it will), you’re left in the dark unless you actually understand the system beneath the surface.
 
 ## Are Static Sites Still Relevant?
 
