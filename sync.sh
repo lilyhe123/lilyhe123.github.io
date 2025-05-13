@@ -12,6 +12,7 @@ read -p "Do you want to commit and push? (Y/N): " answer
 case "$answer" in
   [Yy])
     git add .
+    git status
     git commit -m "$1"
     git push
     ;;

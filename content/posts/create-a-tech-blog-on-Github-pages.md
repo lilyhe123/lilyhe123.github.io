@@ -3,7 +3,7 @@ date: "2025-05-05"
 title: "Create a Tech Blog on GitHub Pages"
 summary: "I kicked things off with a post about how to set up a blog site — seems like a good place to start!"
 description: ""
-showtoc: false
+showtoc: true
 readTime: true
 autonumber: true
 math: true
@@ -11,10 +11,15 @@ tags: ["tutorial"]
 categories:
 showTags: false
 hideBackToTop: false
+cover:
+  image: "https://picsum.photos/id/20/200/100"
+  alt: ""
+  caption: ""
+  relative: false
 ---
 ## Why I’m Writing This
 
-I wanted to set up a tech blog hosted on GitHub Pages. After a quick search, it seemed like the process would be straightforward — something I could get done in minutes. I found some tutorials, like [this one](https://chirpy.cotes.page/posts/getting-started/) for the Chirpy theme. I followed the steps closely… but I just couldn’t get it to work. And the real issue is I have no idea how to fix it. That led to a few days of digging, debugging, learning, and experimenting. Eventually, I got the blog up and running on GitHub Pages. Now I want to put together some takeaways.
+I wanted to set up a tech blog hosted on GitHub Pages. After a quick search, it seemed like the process would be straightforward — something I could get done in minutes. I found some tutorials, like [this one](https://chirpy.cotes.page/posts/getting-started/) for the Chirpy theme. I followed the steps closely… but I just couldn’t get it to work. And the real issue was I had no idea how to fix it. That led to a few days of digging, debugging, learning, and experimenting. Eventually, I got the blog up and running on GitHub Pages. Now I want to put together some takeaways.
 
 > When a tutorial breaks, understanding begins.
 
@@ -130,5 +135,5 @@ And they’re not as limited as they once were. Thanks to JAMstack (JavaScript, 
 
 I’ll probably cover JAMstack more in a future post—it’s a powerful model for modern web development.
 
-## Takeaway
+## Takeaways
 Having a solid grasp of the fundamentals and what's happening "under the hood" equips you with the confidence and understanding necessary to tackle and fix issues when they occur. This still resonates in AI age. With AI-powered tools and automation, it’s tempting to rely entirely on abstractions — letting the tool do the thinking while you follow along. But when something breaks or behaves unpredictably (and it will), you’re left in the dark unless you actually understand the system beneath the surface.
